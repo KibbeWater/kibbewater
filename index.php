@@ -1,3 +1,6 @@
+<!DOCTYPE html>
 <html>
-<title>KibbeWater - Official</title>
+<body>
+<h1>KibbeWater</h1>
+</body>
 </html>
