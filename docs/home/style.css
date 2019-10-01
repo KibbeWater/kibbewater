@@ -1,0 +1,53 @@
+body {
+	background-color: rgb(66, 121, 207);
+	overflow: hidden;
+}
+footer {
+	background-color: rgb(255,255,255);
+	height: 100px;
+}
+a {
+	color: white;
+	text-decoration: none;
+}
+.middletitle {
+	text-align: center;
+	color: rgb(45,45,45);
+	font-family: 'Roboto', sans-serif;
+	font-size: 80px;
+}
+.middledesc {
+	text-align: center;
+	color: rgb(55,55,55);
+	font-family: 'Roboto', sans-serif;
+	font-size: 40px;
+}
+.middlebutton {
+	background-color: rgb(45,45,45);
+	color: rgb(255,255,255);
+	padding: 10px;
+	padding-right: 17px;
+	padding-left: 17px;
+	font-family: 'Roboto', sans-serif;
+	margin: 20px;
+	margin-left: 33px;
+}
+.middlebutton:hover {
+	background-color: rgb(65,65,65);
+	color: rgb(255,255,255);
+	padding: 10px;
+	padding-right: 17px;
+	padding-left: 17px;
+	font-family: 'Roboto', sans-serif;
+	margin: 20px;
+	margin-left: 33px;
+}
+.box {
+	background-color: rgb(255,255,255);
+    width: 450px;
+  	height: 508px;
+  	padding: 50px;
+  	border: 5px solid black;
+  	border-color: rgb(60,60,60);
+  	margin: auto;
+}

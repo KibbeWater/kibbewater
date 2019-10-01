@@ -1,0 +1,59 @@
+body {
+	background-color: rgb(66, 121, 207);
+	overflow: scroll;
+}
+a {
+	text-decoration: none;
+}
+.box {
+	background-color: rgb(255,255,255);
+    width: 450px;
+  	padding: 50px;
+  	border: 5px solid black;
+  	border-color: rgb(60,60,60);
+  	margin: auto;
+}
+.middletitle {
+	text-align: center;
+	color: rgb(45,45,45);
+	font-family: 'Roboto', sans-serif;
+	font-size: 80px;
+}
+.item {
+	background-color: rgb(66, 121, 207);
+  	padding: 5px;
+  	padding-bottom: 10px;
+  	border: 5px solid black;
+  	border-color: rgb(60,60,60);
+  	margin-top: 10px;
+}
+.itemtext {
+	font-family: 'Roboto', sans-serif;
+	margin-top: 30px;
+	margin-left: 20px;
+	color: rgb(255,255,255);
+	display: inline;
+}
+.itemdesc {
+	margin-left: 20px;
+	color: rgb(200,200,200);
+	display: inline;
+}
+.itembutton {
+	background-color: rgb(45,45,45);
+	color: rgb(255,255,255);
+	padding: 10px;
+	padding-right: 17px;
+	padding-left: 17px;
+	font-family: 'Roboto', sans-serif;
+	margin-left: 20px;
+}
+.itembutton:hover {
+	background-color: rgb(45,45,45);
+	color: rgb(255,255,255);
+	padding: 10px;
+	padding-right: 17px;
+	padding-left: 17px;
+	font-family: 'Roboto', sans-serif;
+	margin-left: 20px;
+}
