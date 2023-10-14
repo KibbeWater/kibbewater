@@ -1,4 +1,4 @@
-### Hello, I'm snow 👋
+### Hello, I'm Snow 👋
 
 I'm currently a student and doing coding stuff on the side as a hobby
 
