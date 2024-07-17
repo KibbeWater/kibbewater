@@ -1,5 +1,3 @@
 ### Hello, I'm Snow 👋
 
-I'm currently a student and doing coding stuff on the side as a hobby
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kibbewater&theme=dark" />
+I specialize in full-stack web development, but also spend a lot of my time reverse engineering
